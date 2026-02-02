@@ -21,6 +21,21 @@ The idea for this portable speaker originated from collaborative discussions wit
 - Portable and adaptable to multiple use cases beyond the original concept  
 
 
+## Circuit Diagram
+Below is the **network connection diagram** for the portable Arduino speaker:
+
+<p align="center">
+  <img src="photos/CircuitDiagram.png" width="400">
+</p>
+
+## Hardware
+- Arduino (specify model)  
+- DFPlayer Mini MP3 module  
+- 6 × AA batteries  
+- Speaker (specify size/impedance)  
+- Supporting components (resistors, wires, etc.)  
+
+
 ## Media
 ### Demo Video – “OW!” Clip
 
@@ -34,21 +49,6 @@ The idea for this portable speaker originated from collaborative discussions wit
     <i>Early Build of the Portable Speaker</i>
 </p>
 
-
-## Hardware
-- Arduino (specify model)  
-- DFPlayer Mini MP3 module  
-- 6 × AA batteries  
-- Speaker (specify size/impedance)  
-- Supporting components (resistors, wires, etc.)  
-
-
-## Circuit Diagram
-Below is the **network connection diagram** for the portable Arduino speaker:
-
-<p align="center">
-  <img src="photos/CircuitDiagram.png" width="400">
-</p>
 
 
 ## Setup Instructions
