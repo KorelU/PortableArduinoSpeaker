@@ -58,4 +58,3 @@ Below is the **network connection diagram** for the portable Arduino speaker:
 4. **Upload the Arduino sketch** to the Arduino board.  
 5. **Play audio** directly or attach the speaker to another device for interactive or humorous effects, such as the "OW" clip demonstrated above.
 
----
